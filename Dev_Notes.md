@@ -1,0 +1,3 @@
+              -01/12/2022 Meeting Notes-
+- Change navbar buttons to a tags with button style CSS class attached
+- Main inside body tags!
